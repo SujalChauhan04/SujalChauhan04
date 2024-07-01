@@ -8,3 +8,7 @@
 - 👀 I’m intrigued in intersection of technology, humans and desgin.
 - 📮 How to reach me:  www.linkedin.com/in/sujal-chauhan-041103sc
 - trying trying and trying.....
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
