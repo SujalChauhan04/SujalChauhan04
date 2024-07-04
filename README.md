@@ -37,6 +37,9 @@
  <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
  </p>
+
+ [![An image of @sujalchauhan04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujalchauhan04)](https://holopin.io/@sujalchauhan04)
+ 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
