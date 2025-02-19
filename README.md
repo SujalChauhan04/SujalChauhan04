@@ -13,12 +13,12 @@
 
   <p>
     <a href="https://www.linkedin.com/in/sujal-chauhan-041103sc/" target="_blank">
-      <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
   </p>
 
 <p align="center">
+  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=SujalChauhan04&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
